@@ -1,6 +1,5 @@
-# Đề CodePTIT Lập trình với Python
-
-## Source: https://github.com/nvbangg/CodePTIT
+# [Đề và Code môn Lập trình với Python](https://github.com/nvbangg/CodePTIT_Python) trên [CodePTIT](https://code.ptit.edu.vn)
+## Source: https://github.com/nvbangg/PTIT_Docs
 
 - Tổng cộng 296 bài tập
 
